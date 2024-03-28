@@ -1,5 +1,5 @@
-//Object example using For in and for of
-var resume = {
+
+var resume = {                    //created resume in JSON format.
     "fullName":"Manoj",
     "email":"manojannadurai2265@gmail.com",
     "phoneNumber":"9944112684",
